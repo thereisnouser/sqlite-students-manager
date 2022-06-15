@@ -1,6 +1,6 @@
 # sqlite-students-manager
 
-Java application to manage database with students using JDBC (SQLite)
+Java application to manage embedded database with students using JDBC (SQLite)
 
 ## Run
 
